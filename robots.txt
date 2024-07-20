@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /core/index/
+Disallow: /core/portfolio-2/
+Disallow: /about.html/
+Disallow: /essentialsofts.com/
+
+Sitemap: https://isaadahmad.com/sitemap.xml
