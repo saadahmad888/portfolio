@@ -2631,7 +2631,8 @@ only screen and (min-width: 768px) and (max-width: 991px),
 .page-wrapper.page-wrapper-2 .bostami-header-logo .site-logo img {
   width: 150px;
 }
-.main-logo{
+
+.main-logo {
   height: 100px;
   max-width: auto;
 }
@@ -2640,7 +2641,8 @@ only screen and (min-width: 768px) and (max-width: 991px),
   .page-wrapper.page-wrapper-2 .bostami-header-logo .site-logo img {
     width: 110px;
   }
-  .main-logo{
+
+  .main-logo {
     height: auto;
     width: 110px;
   }
@@ -2650,6 +2652,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   .page-wrapper.page-wrapper-2 .bostami-header-logo .site-logo img {
     width: 150px;
   }
+
   .main-logo {
     height: auto;
     width: 150px;
@@ -5259,6 +5262,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 /*# sourceMappingURL=main.css.map */
 .dark-theme .bostami-parsonal-info-contact-item:not(:first-child) {
   border-color: #333;
+  overflow: hidden;
 }
 
 .dark-theme .contact-form .input-box {
